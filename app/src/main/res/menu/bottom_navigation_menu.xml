@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_nav_expenses"
+        android:enabled="true"
+        android:icon="@drawable/ic_attach_money_black_24dp"
+        android:title="@string/expenses"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_nav_statistics"
+        android:enabled="true"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        android:title="@string/statistics"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_nav_budget"
+        android:enabled="true"
+        android:icon="@drawable/ic_vertical_align_top_black_24dp"
+        android:title="@string/budget"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_nav_wishlist"
+        android:enabled="true"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="@string/wishlist"
+        app:showAsAction="ifRoom" />
+
+</menu>

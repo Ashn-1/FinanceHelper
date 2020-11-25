@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020575405053",
+    "firebase_url": "https://financehelper-38512.firebaseio.com",
+    "project_id": "financehelper-38512",
+    "storage_bucket": "financehelper-38512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020575405053:android:a2416da224bb8c75c7bf94",
+        "android_client_info": {
+          "package_name": "de.ash.financehelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020575405053-uiaj79qnbp888v7k32lc0ae0vqdvn8ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnP6EcmtrVLBy3ci97DYxF8M8FTxRZrvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020575405053-uiaj79qnbp888v7k32lc0ae0vqdvn8ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
